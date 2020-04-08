@@ -7,14 +7,9 @@ export default () => {
   return (
     <Layout>
       <div>
-        <h1>hello!</h1>
-        <h2>i'm rhapsodist</h2>
+        <h1>About page</h1>
+        <h2>my About page</h2>
         <p>
-          need a developer?
-          <a href="/contact">contact me</a>
-        </p>
-        <p>
-          need a developer?
           <Link to="/contact">contact me</Link>
         </p>
       </div>
